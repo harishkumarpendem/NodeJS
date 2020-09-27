@@ -1,0 +1,14 @@
+{
+  "name": "06-nodejs-npm-modules",
+  "version": "1.0.0",
+  "description": "An example of BcryptJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harish",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
